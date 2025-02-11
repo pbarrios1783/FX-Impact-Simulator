@@ -6,7 +6,7 @@ import os
 
 # Cargar variables de entorno
 load_dotenv()
-API_KEY = "c330bd1152fa41d1afb208779f7bb5c4"  # Clave API
+API_KEY = your_open_exchange_rates_api_key  # Clave API
 BASE_URL = "https://openexchangerates.org/api/latest.json"
 
 # Configuración inicial de la página
