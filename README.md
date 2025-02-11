@@ -27,5 +27,6 @@ In volatile economies, exchange rate fluctuations can significantly impact **cos
 
 This tool is provided for informational purposes only and does not constitute financial advice.  
 While it uses real-time exchange rate data, users should verify all calculations before making financial decisions.  
+
 © 2024 **Patricia Barrios**. All rights reserved.
 
