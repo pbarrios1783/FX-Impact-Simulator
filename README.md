@@ -1,6 +1,3 @@
-# FX-Impact-Simulator
-FX Impact Simulator: Costs &amp; Pricing
-
 # 🌍 FX Impact Simulator: Costs & Pricing  
 
 **A strategic tool for family businesses to analyze and adjust pricing based on real-time exchange rate fluctuations.**  
